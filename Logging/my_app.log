@@ -1,0 +1,5 @@
+2025-08-06 10:45:56,976 - my_logger - DEBUG - This is a debug message from my_logger
+2025-08-06 10:45:56,976 - my_logger - INFO - This is an info message from my_logger
+2025-08-06 10:45:56,976 - purchase_processor - WARNING - This is a warning message from my_logger
+2025-08-06 10:45:56,977 - custom - ERROR - This is an error message from my_logger
+2025-08-06 10:45:56,977 - payment_processor - CRITICAL - This is a critical message from my_logger
